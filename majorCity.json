@@ -1,0 +1,12 @@
+[{"_id":5391832,"name":"San Diego County","country":"US","coord":{"lon":-116.800858,"lat":33.033379}},
+{"_id":4720131,"name":"Portland","country":"US","coord":{"lon":-97.323883,"lat":27.877251}},
+{"_id":5368361,"name":"Los Angeles","country":"US","coord":{"lon":-118.243683,"lat":34.052231}},
+{"_id":5391959,"name":"San Francisco","country":"US","coord":{"lon":-122.419418,"lat":37.774929}},
+{"_id":5809844,"name":"Seattle","country":"US","coord":{"lon":-122.332069,"lat":47.606209}},
+{"_id":5781004,"name":"Salt Lake County","country":"US","coord":{"lon":-111.87632,"lat":40.6255}},
+{"_id":5780993,"name":"Salt Lake City","country":"US","coord":{"lon":-111.891052,"lat":40.76078}},
+{"_id":5586437,"name":"Boise","country":"US","coord":{"lon":-116.203453,"lat":43.613499}},
+{"_id":4905873,"name":"Phoenix","country":"US","coord":{"lon":-87.634773,"lat":41.611149}},
+{"_id":5064972,"name":"Butte","country":"US","coord":{"lon":-98.849258,"lat":42.911388}},
+{"_id":5417598,"name":"Colorado Springs","country":"US","coord":{"lon":-104.821358,"lat":38.833881}},
+{"_id":5490263,"name":"Santa Fe","country":"US","coord":{"lon":-105.937798,"lat":35.686981}}]
